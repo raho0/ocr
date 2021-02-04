@@ -1,1 +1,2 @@
 # ocr
+Ocr with CNN
